@@ -20,5 +20,9 @@ pandas
 streamlit
 pymupdf
 
+pydantic
+pydantic[email]
+
+
 
  
