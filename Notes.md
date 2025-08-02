@@ -9,3 +9,9 @@
 These can be done in multiple ways
 1.  TypedDict - predefined structure (no validation)
 2.  Pydantic
+
+### Output Parser
+1. String OP
+2. JSON OP
+3. Structurde OP
+4. Pydantic OP
